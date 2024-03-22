@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Mv.Controllers
+namespace Mvc.Controllers
 {
     public class InicioController : Controller
     {

@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Mv.Controllers
-{
+
     public class InicioController : Controller
     {
         public IActionResult Index()
@@ -9,4 +8,3 @@ namespace Mv.Controllers
             return View();
         }
     }
-}

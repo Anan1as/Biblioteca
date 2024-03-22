@@ -1,31 +1,62 @@
-E:\Copia de seguridad PC\Riwi\Biblioteca\bin\Debug\net8.0\appsettings.Development.json
-E:\Copia de seguridad PC\Riwi\Biblioteca\bin\Debug\net8.0\appsettings.json
-E:\Copia de seguridad PC\Riwi\Biblioteca\bin\Debug\net8.0\Biblioteca.staticwebassets.runtime.json
-E:\Copia de seguridad PC\Riwi\Biblioteca\bin\Debug\net8.0\Biblioteca.exe
-E:\Copia de seguridad PC\Riwi\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
-E:\Copia de seguridad PC\Riwi\Biblioteca\bin\Debug\net8.0\Biblioteca.runtimeconfig.json
-E:\Copia de seguridad PC\Riwi\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
-E:\Copia de seguridad PC\Riwi\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\Biblioteca.RazorAssemblyInfo.cache
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\Biblioteca.RazorAssemblyInfo.cs
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\staticwebassets.build.json
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\staticwebassets.development.json
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.Biblioteca.Microsoft.AspNetCore.StaticWebAssets.props
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.build.Biblioteca.props
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Biblioteca.props
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Biblioteca.props
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\staticwebassets.pack.json
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\scopedcss\bundle\Biblioteca.styles.css
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\scopedcss\projectbundle\Biblioteca.bundle.scp.css
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
-E:\Copia de seguridad PC\Riwi\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
+E:/Copia de seguridad PC/Riwi/Biblioteca/bin/Debug/net8.0/appsettings.Development.json
+E:/Copia de seguridad PC/Riwi/Biblioteca/bin/Debug/net8.0/appsettings.json
+E:/Copia de seguridad PC/Riwi/Biblioteca/bin/Debug/net8.0/Biblioteca.staticwebassets.runtime.json
+E:/Copia de seguridad PC/Riwi/Biblioteca/bin/Debug/net8.0/Biblioteca.exe
+E:/Copia de seguridad PC/Riwi/Biblioteca/bin/Debug/net8.0/Biblioteca.deps.json
+E:/Copia de seguridad PC/Riwi/Biblioteca/bin/Debug/net8.0/Biblioteca.runtimeconfig.json
+E:/Copia de seguridad PC/Riwi/Biblioteca/bin/Debug/net8.0/Biblioteca.dll
+E:/Copia de seguridad PC/Riwi/Biblioteca/bin/Debug/net8.0/Biblioteca.pdb
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/Biblioteca.AssemblyInfoInputs.cache
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/Biblioteca.AssemblyInfo.cs
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/Biblioteca.csproj.CoreCompileInputs.cache
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/Biblioteca.RazorAssemblyInfo.cache
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/Biblioteca.RazorAssemblyInfo.cs
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/Biblioteca.sourcelink.json
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/staticwebassets.build.json
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/staticwebassets.development.json
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.Biblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.build.Biblioteca.props
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Biblioteca.props
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Biblioteca.props
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/staticwebassets.pack.json
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/scopedcss/bundle/Biblioteca.styles.css
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/scopedcss/projectbundle/Biblioteca.bundle.scp.css
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/Biblioteca.dll
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/refint/Biblioteca.dll
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/Biblioteca.pdb
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/Biblioteca.genruntimeconfig.cache
+E:/Copia de seguridad PC/Riwi/Biblioteca/obj/Debug/net8.0/ref/Biblioteca.dll
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/Biblioteca.AssemblyInfoInputs.cache
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/Biblioteca.AssemblyInfo.cs
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/Biblioteca.RazorAssemblyInfo.cache
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/Biblioteca.RazorAssemblyInfo.cs
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/Biblioteca.sourcelink.json
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/Biblioteca.dll
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/refint/Biblioteca.dll
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/Biblioteca.pdb
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/bin/Debug/net8.0/appsettings.Development.json
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/bin/Debug/net8.0/appsettings.json
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/bin/Debug/net8.0/Biblioteca.staticwebassets.runtime.json
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/bin/Debug/net8.0/Biblioteca
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/bin/Debug/net8.0/Biblioteca.deps.json
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/bin/Debug/net8.0/Biblioteca.runtimeconfig.json
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/bin/Debug/net8.0/Biblioteca.dll
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/bin/Debug/net8.0/Biblioteca.pdb
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/staticwebassets.build.json
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/staticwebassets.development.json
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.Biblioteca.Microsoft.AspNetCore.StaticWebAssets.props
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.build.Biblioteca.props
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Biblioteca.props
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Biblioteca.props
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/staticwebassets.pack.json
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/scopedcss/bundle/Biblioteca.styles.css
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/scopedcss/projectbundle/Biblioteca.bundle.scp.css
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/Biblioteca.genruntimeconfig.cache
+/home/riwip5-040/Documents/RIWITARDE/C#/web/Biblioteca/obj/Debug/net8.0/ref/Biblioteca.dll
