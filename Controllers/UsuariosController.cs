@@ -18,5 +18,17 @@ namespace Mvc.Controllers
         {
             return View();
         }
+
+         public IActionResult Editar()
+        {
+            return View();
+        }
+
+         public IActionResult Eliminar()
+        {
+            return View();
+        }
+
+
     }
 }
