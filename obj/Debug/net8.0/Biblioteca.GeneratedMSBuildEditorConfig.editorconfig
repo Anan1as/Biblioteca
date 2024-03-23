@@ -18,8 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Programacion\C#\web\Biblioteca
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Programacion/C\#/web/Biblioteca/Views/Inicio/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEluZGV4LmNzaHRtbA==
+[D:/Programacion/C\#/web/Biblioteca/Views/Gestionlibros/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGlvbmxpYnJvc1xBY3R1YWxpemFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programacion/C\#/web/Biblioteca/Views/Gestionlibros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGlvbmxpYnJvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programacion/C\#/web/Biblioteca/Views/Gestionlibros/Registrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGlvbmxpYnJvc1xSZWdpc3RyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programacion/C\#/web/Biblioteca/Views/Index/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Programacion/C\#/web/Biblioteca/Views/Shared/Error.cshtml]

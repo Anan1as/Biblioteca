@@ -1,10 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
 
-
-    public class InicioController : Controller
-    {
+namespace Mv.Controllers
+{
+    public class IndexController : Controller {
         public IActionResult Index()
         {
             return View();
         }
     }
+
+}
