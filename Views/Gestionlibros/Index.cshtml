@@ -1,0 +1,44 @@
+<div>
+    <div class="d-flex justify-content-end">
+        <h1 class="mb-3">Gestión de Libros</h1>
+    </div>
+    <div>
+        <a class="btn btn-primary mb-3" asp-area="" asp-controller="Gestionlibros" asp-action="Registrar">Agregar un nuevo libro</a>
+    </div>
+    <div class="d-flex justify-content-center">
+        <table class="table table-striped mt-4">
+            <thead>
+                <th width="250px">Imagen</th>
+                <th>Codigo</th>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Año de publicación</th>
+                <th>Editorial</th>
+                <th>Genero</th>
+                <th>Sinopsis</th>
+                <th>Estado</th>
+                <th>Observaciones</th>
+                <th>Acciones</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <img class="w-75" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh2obpIQHpB66bukzv1F0W-9u0JtcJ3CdR-qPdSiJtsjvvxGCVsxMujSsTQKJ6l5Gk73o&usqp=CAU" alt="Libro">
+                    </td>
+                    <td>813 M12m Ej.1</td>
+                    <td>Memorias de un amigo imaginario</td>
+                    <td>Matthew Dicks</td>
+                    <td>2012</td>
+                    <td>Nube de Tinta</td>
+                    <td>Literatura</td>
+                    <td>Max es un niño de 8 años que tiene un amigo imaginario llamado Budo...</td>
+                    <td>Disponible</td>
+                    <td>Libro en buen estado</td>
+                    <td>
+                        <a class="btn btn-warning" asp-area="" asp-controller="Gestionlibros" asp-action="Actualizar">Actualizar</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
