@@ -1,0 +1,34 @@
+<div>
+    <div class="d-flex justify-content-end">
+        <a asp-area="" asp-controller="Index" asp-action="Index">Inicio</a>
+        <p class="ms-3">Registrar nuevo prestamo</p>
+    </div>
+    <div class="d-flex flex-column justify-content-center align-items-center">
+        <div class="border p-4 m-4">
+            <div>
+                <p>ID de Bibliotecario:</p>
+                <input class="form-control" type="number" id="bibliotecario" value="1">
+            </div>
+            <div>
+                <p>Documento de usuario:</p>
+                <input class="form-control" type="string" id="documento" value="Ejemplo">
+            </div>
+            <div>
+                <p>Codigo de libro:</p>
+                <input class="form-control" type="string" id="codigo" value="Ejemplo">
+            </div>
+            <div>
+                <p>Fecha de prestamo:</p>
+                <input class="form-control" type="date" id="prestamo" value="2024-03-23">
+            </div>
+            <div>
+                <p>Fecha de entrega:</p>
+                <input class="form-control" type="date" id="entrega" value="2024-03-29">
+            </div>
+        </div>
+    </div>
+    <div class="d-flex justify-content-center align-items-center">
+        <a class="btn btn-primary" asp-area="" asp-controller="Prestamolibros" asp-action="Index">Registrar</a>
+        <a class="btn btn-danger ms-2" asp-area="" asp-controller="Prestamolibros" asp-action="Index">Cancelar</a>
+    </div>
+</div>
